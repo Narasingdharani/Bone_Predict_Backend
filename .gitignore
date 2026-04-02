@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Databases & Data (Important for privacy)
+*.db
+*.sqlite3
+*.csv
+uploads/
+patient_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Configs
+config.py
+instance/
+.pytest_cache/
+
+# Old Web Frontend Leftovers
+templates/
+static/
+
