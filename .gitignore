@@ -5,12 +5,8 @@ __pycache__/
 venv/
 .env
 
-# Databases & Data (Important for privacy)
-*.db
-*.sqlite3
-*.csv
-uploads/
-patient_data/
+# Databases & Data
+# Note: Database files are now being pushed as requested by the user.
 
 # OS files
 .DS_Store
